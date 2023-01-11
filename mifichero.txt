@@ -1,0 +1,6 @@
+hola
+aprendiendo python
+rojo
+azul
+amarillo
+verde
